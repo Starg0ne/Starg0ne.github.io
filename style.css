@@ -185,6 +185,7 @@ section + section {
   font-weight: 500;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  margin-left: 3rem;
   transition: background 0.2s, color 0.2s;
 }
 
